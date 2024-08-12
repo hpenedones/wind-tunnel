@@ -65,7 +65,7 @@ For more detailed information, please visit the [Wind Tunnel Documentation](http
 
 1.	Clone the repository:
 ```
-git clone https://github.com/inductiva/wind-tunnel.git
+git clone https://github.com/hpenedones/wind-tunnel.git
 cd wind-tunnel
 ```
 
